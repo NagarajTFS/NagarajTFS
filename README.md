@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **nagaraj673@gmail.com**
 
-- ⚡ Fun fact **I like Learning(CODING)**
+- ⚡ Fun fact **I'm a workaholic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
