@@ -17,7 +17,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.clipartmax.com%2Fpng%2Fsmall%2F351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png&tbnid=1xADScMAjsGYmM&vet=12ahUKEwjf_OP4xoiAAxXjtWMGHQNiD0kQMygJegUIARDdAQ..i&imgrefurl=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7G6A0b1A0K9m2_c-language-global-or-external-variables-with-examples-c-programming-logo%2F&docid=vYUdb_wXxS6Y0M&w=300&h=343&q=c%20language%20icon&ved=2ahUKEwjf_OP4xoiAAxXjtWMGHQNiD0kQMygJegUIARDdAQ" alt="java" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nagarajtfs&show_icons=true&locale=en&layout=compact" alt="nagarajtfs" /></p>
 
